@@ -1,0 +1,41 @@
+=== Created with Simple Spline Editor ===
+=== Author: yoyomann276 - MFSBH Modding ===
+
+=== Height profiles ===
+== unnamed ==
+== Breite: 0.4 Meter ==
+[heightprofile]
+-0.2
+0.2
+0.1
+0.1
+
+=== Textures ===
+== 0 ==
+[texture]
+triangles_6.13_S.png
+[matl]
+triangles_6.13_S.png
+0
+[matl_alpha]
+2
+
+=== Textur wrappings ===
+== START ==
+[profile]
+0
+== FROM ==
+[profilepnt]
+-0.2
+0.1
+0
+0.2
+== TO ==
+[profilepnt]
+0.2
+0.1
+0.9795918
+0.2
+== END ==
+
+=== Pathes ===
